@@ -25,7 +25,7 @@ import {
 // Work around a TS bug requiring an imports of
 // InjectionToken, ViewEncapsulation and MissingTranslationStrategy
 // without using them
-if (global.___TS_UNUSED) {
+if ((<any>global).___TS_UNUSED) {
     (() => InjectionToken)();
     (() => ViewEncapsulation)();
     (() => MissingTranslationStrategy)();
