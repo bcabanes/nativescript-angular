@@ -33,7 +33,7 @@
     "@angular/router": "4.0.0-beta.8",
     "nativescript-angular": "file:../nativescript-angular",
     "rxjs": "~5.0.1",
-    "tns-core-modules": "2.5.0"
+    "tns-core-modules": "internal-preview"
   },
   "devDependencies": {
     "zone.js": "~0.7.2",
@@ -45,7 +45,7 @@
     "nativescript-dev-typescript": "^0.3.1",
     "nativescript-dev-webpack": "0.0.13",
     "shelljs": "^0.7.0",
-    "typescript": "~2.1.0"
+    "typescript": "~2.2.0"
   },
   "nativescript": {
     "id": "org.nativescript.ngsample",
